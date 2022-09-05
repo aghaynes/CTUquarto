@@ -5,10 +5,8 @@ contributes:
   formats:
     revealjs:
       logo: ub_Logo_english_2019_RGB_wb.png
-      footer: |
-        CTU Bern theme for [Quarto Presentations](https://quarto.org/docs/presentations/revealjs/index.html).
-        Code available on [GitHub](https://github.com/aghaynes/CTUquarto).
       theme: unibe.scss
       slide-number: c/t
       show-slide-number: all
       preview-links: true
+      chalkboard: true
