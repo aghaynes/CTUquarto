@@ -1,10 +1,8 @@
-# CTUquarto
+# qmd-ctupres
 
-[quarto](https://quarto.org) extensions for CTU Bern.
+[quarto](https://quarto.org) revealjs extension for CTU Bern.
 
 THIS IS IN DEVELOPMENT
-
-Different branches contain different templates:
 
 ### Installing the extension
 
