@@ -5,7 +5,7 @@ author: "Alan"
 format: ctupres-revealjs
 footer: |
         CTU Bern theme for [Quarto Presentations](https://quarto.org/docs/presentations/revealjs/index.html).
-        Code available on [GitHub](https://github.com/aghaynes/CTUquarto).
+        Code available on [GitHub](https://github.com/aghaynes/qmd-ctupres).
 ---
 
 ## Quarto
