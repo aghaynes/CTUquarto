@@ -11,7 +11,7 @@ Different branches contain different templates:
 To install, type the following into the terminal and accept to install
 
 ```
-quarto install extension aghaynes/CTUquarto
+quarto install extension aghaynes/qmd-ctupres
 ```
 
 ### Using the template
@@ -19,7 +19,7 @@ quarto install extension aghaynes/CTUquarto
 Once installed, you can create a new directory with all necessary files via the following command 
 
 ```
-quarto use template aghaynes/CTUquarto
+quarto use template aghaynes/qmd-ctupres
 ```
 
 It will ask if you trust the author of the template (hopefully you do...), and then for a directory name. Type the path relative to your current location.
